@@ -126,7 +126,7 @@ Cowork 讓您設定目標，由 Claude 交付專業完成的工作。外掛程�
 claude plugin marketplace add tboydar/anthropics-knowledge-work-plugins
 
 # 然後安裝特定外掛程式
-claude plugin install sales@anthropics-knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
 ```
 
 安裝完成後，外掛程式會自動啟用。技能會在相關情境下自動觸發，斜線指令則可在工作階段中使用（例如 `/sales:call-prep`、`/data:write-query`）。
